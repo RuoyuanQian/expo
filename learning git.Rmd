@@ -2,7 +2,7 @@
 title: "learning git"
 author: "Ruoyuan Qian"
 date: "2019/9/14"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include = FALSE}
